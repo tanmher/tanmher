@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**tanmher/tanmher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+- HTML
+- CSS / SASS
+- JavaScript
+- React
+- Java
+- PHP
+- Python
+- Flutter
 
-Here are some ideas to get you started:
+### How to reach me 
+[Facebook](https://www.facebook.com/tanmherjohn/) \
+[LinkedIn](https://www.linkedin.com/in/mher-john-tan-2423ab1b5/) \
+[tanmher09@gmail.com](tanmher09@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=tanmher&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
