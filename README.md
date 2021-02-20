@@ -16,4 +16,3 @@
 [tanmher09@gmail.com](tanmher09@gmail.com)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanmher&&show_icons=true&title_color=ffffff&icon_color=3DA9FC&text_color=daf7dc&bg_color=151515" >
