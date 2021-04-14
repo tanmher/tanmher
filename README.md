@@ -6,9 +6,10 @@
 - JavaScript
 - React
 - Java
-- PHP
 - Python
 - Flutter
+
+Also I am interested in UX Design.
 
 ### How to reach me 
 [Facebook](https://www.facebook.com/tanmherjohn/) \
